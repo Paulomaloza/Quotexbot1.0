@@ -39,10 +39,22 @@ PASSWORD = "sua_senha"
 ### Executando o Bot
 
 1. Certifique-se de que todas as dependências estejam instaladas.
-2. Execute o arquivo principal:
+2. Clone o repositório do GitHub:
 
 ```bash
-python nome_do_arquivo.py
+git clone https://github.com/paulomaloza/QuotexBot.git
+```
+
+3. Navegue até o diretório do projeto:
+
+```bash
+cd QuotexBot
+```
+
+4. Execute o arquivo principal:
+
+```bash
+python main.py
 ```
 
 O bot irá realizar as seguintes operações:
@@ -96,5 +108,5 @@ Este projeto está licenciado sob a MIT License. Consulte o arquivo `LICENSE` pa
 ---
 
 **Autor:** Paulo Maloza  
-**Contato:** Paulomaloza@gmail.com
+**Contato:** paulomaloza@gmail.com
 
