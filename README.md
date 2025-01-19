@@ -42,7 +42,7 @@ PASSWORD = "sua_senha"
 2. Clone o repositório do GitHub:
 
 ```bash
-git clone https://github.com/paulomaloza/QuotexBot.git
+git clone https://github.com/paulomaloza/QuotexBot1.0.git
 ```
 
 3. Navegue até o diretório do projeto:
